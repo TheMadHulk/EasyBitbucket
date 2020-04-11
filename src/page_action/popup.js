@@ -132,7 +132,7 @@ function setupFileNames(tabId) {
     if (fileList) {
       fileNames.innerText = fileList;
     } else {
-      fileNames.innerText = `Removed line counts are not found.`;
+      fileNames.innerText = `File names are not found.`;
       copyFileNamesButton.style.visibility = "hidden";
     }
   });
@@ -158,7 +158,7 @@ function setupcommitIDs(tabId) {
     if (commitList) {
       commits.innerText = commitList;
     } else {
-      commits.innerText = `Removed line counts are not found.`;
+      commits.innerText = `Commit IDs are not found.`;
       copyCommitsPRButton.style.visibility = "hidden";
     }
   });
