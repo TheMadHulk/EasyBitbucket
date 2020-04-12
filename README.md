@@ -1,6 +1,6 @@
 # easy-bitbucket
 
-Make Bitbucket interaction easier with `easy-bitbucket` chrome extension~~
+Make code review tracker filling easier with `easy-bitbucket` chrome extension~~
 
 ## Global screenshot
 

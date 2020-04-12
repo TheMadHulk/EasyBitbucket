@@ -2,7 +2,8 @@
   "name": "Easy Bitbucket",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Working with Bitbucket easy",
+  "description": "Working with Bitbucket PR easy",
+  "homepage_url": "https://github.com/TheMadHulk/EasyBitbucket",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
